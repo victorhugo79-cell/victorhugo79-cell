@@ -1,23 +1,6 @@
 <div align="center">
 
-<!-- BANNER SVG COM FOTO + TEXTO SOBREPOSTO -->
-<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs>
-    <clipPath id="rounded">
-      <rect width="900" height="320" rx="12" ry="12"/>
-    </clipPath>
-  </defs>
-  <!-- Foto de fundo recortada -->
-  <image href="https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=1120&auto=format&fit=crop" x="0" y="-80" width="900" height="500" clip-path="url(#rounded)" preserveAspectRatio="xMidYMid slice"/>
-  <!-- Overlay escuro para legibilidade -->
-  <rect width="900" height="320" rx="12" ry="12" fill="rgba(0,0,0,0.52)"/>
-  <!-- Nome principal -->
-  <text x="450" y="148" font-family="'Segoe UI', Arial, sans-serif" font-size="58" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2">Victor Hugo</text>
-  <!-- Linha divisora -->
-  <line x1="340" y1="168" x2="560" y2="168" stroke="#a78bfa" stroke-width="1.5" opacity="0.7"/>
-  <!-- Subtitulo -->
-  <text x="450" y="200" font-family="'Segoe UI', Arial, sans-serif" font-size="17" fill="#cccccc" text-anchor="middle" letter-spacing="3">Full Stack Developer  •  Data Engineer  •  AI Builder</text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=280&color=0:0a0a0a,100:0a0a0a&fontColor=ffffff&text=Victor%20Hugo&fontSize=62&fontAlignY=43&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Data%20Engineer%20%E2%80%A2%20AI%20Builder&descSize=17&descColor=aaaaaa&descAlignY=63&img=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1531297484001-80022131f5a1%3Fq%3D80%26w%3D1120%26auto%3Dformat%26fit%3Dcrop&imgWidth=100%25&imgHeight=280&imgOpacity=0.45" width="100%"/>
 
 <br/>
 
@@ -33,7 +16,6 @@
 
 <div align="center">
 
-<!-- PIXEL ART CODING GIF -->
 <img height="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 &nbsp;&nbsp;&nbsp;
 <img height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
