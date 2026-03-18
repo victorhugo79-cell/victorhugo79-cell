@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:1a0533,60:0d1b4b,100:0d0d0d&height=280&section=header&text=Victor%20Hugo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚀%20Full%20Stack%20Developer%20•%20🤖%20AI%20Builder%20•%20📊%20Data%20Engineer&descAlignY=58&descColor=a78bfa&stroke=6d28d9&strokeWidth=2" width="100%"/>
 
 <!-- PIXEL ART ANIMADO -->
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
+<img src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
 
 <!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=A78BFA&background=0D0D0D00&center=true&vCenter=true&multiline=false&width=700&height=60&lines=🎮+Construindo+o+futuro+com+codigo...;🤖+Integrando+IA+no+dia+a+dia...;📊+Transformando+dados+em+decisoes...;🎵+Dev+%7C+Music+%7C+Innovation...;⚡+Python+%7C+TypeScript+%7C+React)](https://git.io/typing-svg)
