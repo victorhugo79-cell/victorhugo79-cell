@@ -1,17 +1,27 @@
 <div align="center">
 
-<!-- BANNER - FOTO UNSPLASH COM NOME SOBREPOSTO -->
-<a href="https://github.com/victorhugo79-cell">
-  <img src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=1120&auto=format&fit=crop" width="100%" style="border-radius:12px" />
-</a>
-
-<h1>Victor Hugo</h1>
-
-<p>Full Stack Developer &nbsp;&bull;&nbsp; Data Engineer &nbsp;&bull;&nbsp; AI Builder</p>
+<!-- BANNER SVG COM FOTO + TEXTO SOBREPOSTO -->
+<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <clipPath id="rounded">
+      <rect width="900" height="320" rx="12" ry="12"/>
+    </clipPath>
+  </defs>
+  <!-- Foto de fundo recortada -->
+  <image href="https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=1120&auto=format&fit=crop" x="0" y="-80" width="900" height="500" clip-path="url(#rounded)" preserveAspectRatio="xMidYMid slice"/>
+  <!-- Overlay escuro para legibilidade -->
+  <rect width="900" height="320" rx="12" ry="12" fill="rgba(0,0,0,0.52)"/>
+  <!-- Nome principal -->
+  <text x="450" y="148" font-family="'Segoe UI', Arial, sans-serif" font-size="58" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2">Victor Hugo</text>
+  <!-- Linha divisora -->
+  <line x1="340" y1="168" x2="560" y2="168" stroke="#a78bfa" stroke-width="1.5" opacity="0.7"/>
+  <!-- Subtitulo -->
+  <text x="450" y="200" font-family="'Segoe UI', Arial, sans-serif" font-size="17" fill="#cccccc" text-anchor="middle" letter-spacing="3">Full Stack Developer  •  Data Engineer  •  AI Builder</text>
+</svg>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Python+%7C+TypeScript+%7C+Node.js+%7C+React;Automacao+com+Claude+AI+%2B+MCP+Servers;Pipelines+ETL+%7C+Supabase+%7C+Azure;Sao+Paulo%2C+Brasil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Python+%7C+TypeScript+%7C+Node.js+%7C+React;Automacao+com+Claude+AI+%2B+MCP+Servers;Pipelines+ETL+%7C+Supabase+%7C+Azure;Sao+Paulo%2C+Brasil)](https://git.io/typing-svg)
 
 <br/>
 
