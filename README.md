@@ -1,20 +1,21 @@
 <div align="center">
 
-<!-- BANNER PRINCIPAL ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:1a0533,60:0d1b4b,100:0d0d0d&height=280&section=header&text=Victor%20Hugo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚀%20Full%20Stack%20Developer%20•%20🤖%20AI%20Builder%20•%20📊%20Data%20Engineer&descAlignY=58&descColor=a78bfa&stroke=6d28d9&strokeWidth=2" width="100%"/>
+<!-- BANNER - FOTO UNSPLASH COM NOME SOBREPOSTO -->
+<a href="https://github.com/victorhugo79-cell">
+  <img src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=1120&auto=format&fit=crop" width="100%" style="border-radius:12px" />
+</a>
 
-<!-- PIXEL ART ANIMADO -->
-<img src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
+<h1>Victor Hugo</h1>
 
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=A78BFA&background=0D0D0D00&center=true&vCenter=true&multiline=false&width=700&height=60&lines=🎮+Construindo+o+futuro+com+codigo...;🤖+Integrando+IA+no+dia+a+dia...;📊+Transformando+dados+em+decisoes...;🎵+Dev+%7C+Music+%7C+Innovation...;⚡+Python+%7C+TypeScript+%7C+React)](https://git.io/typing-svg)
+<p>Full Stack Developer &nbsp;&bull;&nbsp; Data Engineer &nbsp;&bull;&nbsp; AI Builder</p>
 
 <br/>
 
-<!-- BADGES ANIMADOS -->
-[![Profile Views](https://komarev.com/ghpvc/?username=victorhugo79-cell&style=for-the-badge&color=7c3aed&label=VISITANTES)]()
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/victorhugo79-cell?style=for-the-badge&color=7c3aed&labelColor=0d0d0d&label=SEGUIDORES)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Python+%7C+TypeScript+%7C+Node.js+%7C+React;Automacao+com+Claude+AI+%2B+MCP+Servers;Pipelines+ETL+%7C+Supabase+%7C+Azure;Sao+Paulo%2C+Brasil)](https://git.io/typing-svg)
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=victorhugo79-cell&style=flat-square&color=7c3aed&label=visitors&labelColor=0d0d0d)
 
 </div>
 
@@ -39,20 +40,20 @@
 
 ```typescript
 ◄═══════════════════════════════════►
-  🧑‍💻  VICTOR HUGO — DEV PROFILE
+  VICTOR HUGO - DEV PROFILE
 ◄═══════════════════════════════════►
 
-  📍 Local    →  São Paulo, Brasil 🇧🇷
-  🏢 Empresa  →  ARTESP
-  💼 Cargo    →  Dev de Sistemas
-  🎯 Foco     →  IA + Dados + Web
+  Local    ->  Sao Paulo, Brasil
+  Empresa  ->  ARTESP
+  Cargo    ->  Dev de Sistemas
+  Foco     ->  IA + Dados + Web
 
-  🛠️ Stack    →  Python · TS · React
-  ☁️ Cloud    →  Azure · GCP · Supabase
-  🤖 IA       →  Claude AI · MCP · LLMs
+  Stack    ->  Python . TS . React
+  Cloud    ->  Azure . GCP . Supabase
+  IA       ->  Claude AI . MCP . LLMs
 
-  🎵 Hobby    →  Trap · R&B · Drill
-  ⚡ Status   →  Building in silence...
+  Hobby    ->  Trap . R&B . Drill
+  Status   ->  Building in silence...
 ◄═══════════════════════════════════►
 ```
 
@@ -60,7 +61,7 @@
 
 ---
 
-## 🛸 Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -68,19 +69,18 @@
 
 <br/><br/>
 
-<!-- BADGES COM NEON EFFECT -->
-![Python](https://img.shields.io/badge/Python-★★★★★-7c3aed?style=flat-square&logo=python&logoColor=white&labelColor=1a0533)
-![TypeScript](https://img.shields.io/badge/TypeScript-★★★★☆-7c3aed?style=flat-square&logo=typescript&logoColor=white&labelColor=1a0533)
-![React](https://img.shields.io/badge/React-★★★★☆-7c3aed?style=flat-square&logo=react&logoColor=white&labelColor=1a0533)
-![Node.js](https://img.shields.io/badge/Node.js-★★★★☆-7c3aed?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1a0533)
-![Claude AI](https://img.shields.io/badge/Claude_AI-★★★★★-7c3aed?style=flat-square&logo=anthropic&logoColor=white&labelColor=1a0533)
-![Supabase](https://img.shields.io/badge/Supabase-★★★★☆-7c3aed?style=flat-square&logo=supabase&logoColor=white&labelColor=1a0533)
+![Python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-7c3aed?style=flat-square&logo=python&logoColor=white&labelColor=1a0533)
+![TypeScript](https://img.shields.io/badge/TypeScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-7c3aed?style=flat-square&logo=typescript&logoColor=white&labelColor=1a0533)
+![React](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-7c3aed?style=flat-square&logo=react&logoColor=white&labelColor=1a0533)
+![Node.js](https://img.shields.io/badge/Node.js-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-7c3aed?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1a0533)
+![Claude AI](https://img.shields.io/badge/Claude_AI-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-7c3aed?style=flat-square&logo=anthropic&logoColor=white&labelColor=1a0533)
+![Supabase](https://img.shields.io/badge/Supabase-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-7c3aed?style=flat-square&logo=supabase&logoColor=white&labelColor=1a0533)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -100,13 +100,13 @@
 
 ---
 
-## 🎮 Projetos em Destaque
+## Projetos em Destaque
 
 <div align="center">
 
-[![Sistema CRM ARTESP](https://github-readme-stats.vercel.app/api/pin/?username=victorhugo79-cell&repo=Contato-Concessionaria&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd)](https://github.com/victorhugo79-cell/Contato-Concessionaria)
+[![Consolidar Planilha](https://github-readme-stats.vercel.app/api/pin/?username=victorhugo79-cell&repo=Consolidar-Planilha-Seguran-a-Vi-ria-V3&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd)](https://github.com/victorhugo79-cell/Consolidar-Planilha-Seguran-a-Vi-ria-V3)
 &nbsp;
-[![Segurança Viária](https://github-readme-stats.vercel.app/api/pin/?username=victorhugo79-cell&repo=Consolidar-Planilha-Seguran-a-Vi-ria-V3&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd)](https://github.com/victorhugo79-cell/Consolidar-Planilha-Seguran-a-Vi-ria-V3)
+[![Cruzamento DER](https://github-readme-stats.vercel.app/api/pin/?username=victorhugo79-cell&repo=Cruzamento_Dados_DER_Concessionaria_V1&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd)](https://github.com/victorhugo79-cell/Cruzamento_Dados_DER_Concessionaria_V1)
 
 </div>
 
@@ -114,43 +114,35 @@
 
 <div align="center">
 
-| 🏆 | Projeto | Stack | Status |
-|:---:|:--------|:------|:------:|
-| 🏗️ | **Sistema CRM ARTESP** | `TypeScript` `React` | 🟢 Ativo |
-| 📊 | **Pipeline ETL DER** | `Python` `Supabase` | 🟢 Ativo |
-| 🛡️ | **Segurança Viária** | `Python` `Excel` | 🟢 Ativo |
-| 🎰 | **Sorteio Concessionárias** | `Python` | ✅ Concluído |
-| 🔧 | **Contato Concessionária** | `TypeScript` | ✅ Concluído |
+| Projeto | Stack | Status |
+|:--------|:------|:------:|
+| **Sistema CRM ARTESP** | `TypeScript` `React` | 🟢 Ativo |
+| **Pipeline ETL DER** | `Python` `Supabase` | 🟢 Ativo |
+| **Seguranca Viaria** | `Python` `Excel` | 🟢 Ativo |
+| **Sorteio Concessionarias** | `Python` | ✅ Concluido |
+| **Contato Concessionaria** | `TypeScript` | ✅ Concluido |
 
 </div>
 
 ---
 
-## 🌟 Atualmente
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
-
-</div>
+## Atualmente
 
 ```
-⚡ LOADING CURRENT MISSIONS...
+[ LOADING CURRENT MISSIONS... ]
 
-  [████████████████████] 100%  Sistemas de dados para rodovias
-  [████████████████░░░░]  80%  Automacao com Claude AI + MCP
-  [█████████████░░░░░░░]  65%  Explorando LLMs avancados
-  [██████████░░░░░░░░░░]  50%  Pipeline ETL de alta perf.
-  [████░░░░░░░░░░░░░░░░]  20%  Musica: trap/R&B (side quest) 🎵
+  [####################] 100%  Sistemas de dados para rodovias
+  [################....]  80%  Automacao com Claude AI + MCP
+  [#############.......]  65%  Explorando LLMs avancados
+  [##########..........]  50%  Pipeline ETL de alta perf.
+  [####................]  20%  Musica: trap/R&B (side quest)
 ```
 
 ---
 
-## 📬 Contato
+## Contato
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-victorhugo79--cell-0d0d0d?style=for-the-badge&logo=github&logoColor=white&labelColor=7c3aed)](https://github.com/victorhugo79-cell)
 &nbsp;
@@ -162,14 +154,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
 
-</div>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=120&section=footer" width="100%"/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:1a0533,60:0d1b4b,100:0d0d0d&height=150&section=footer&animation=fadeIn" width="100%"/>
-
-<sub>⚡ <i>"Feito com código, café e muita determinação"</i> — Victor Hugo</sub>
+<sub><i>"Feito com codigo, cafe e muita determinacao" - Victor Hugo</i></sub>
 
 </div>
