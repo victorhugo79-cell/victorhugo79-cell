@@ -1,36 +1,43 @@
 <div align="center">
+  <table>
+    <tr>
+      <td width="70%" align="center">
+        <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0A0A0A&amp;height=230&amp;text=VIKTOR%20RENN&amp;fontColor=FFFFFF&amp;fontSize=48&amp;fontAlignY=41&amp;desc=DATA%20%20%2F%20%20SOFTWARE%20%20%2F%20%20AI&amp;descColor=C7C7C7&amp;descSize=17&amp;descAlignY=67" width="650" alt="Viktor Renn — Data, Software e AI" />
+      </td>
+      <td width="30%" align="center">
+        <img src="https://wsrv.nl/?url=avatars.githubusercontent.com%2Fu%2F244506950%3Fv%3D4&amp;w=460&amp;h=460&amp;fit=cover&amp;filt=greyscale&amp;output=png" width="230" alt="Foto de perfil de Viktor Renn em preto e branco" />
+      </td>
+    </tr>
+  </table>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=VIKTOR%20RENN&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%20%7C%20%20DATA%20%20%7C%20%20AI%20SYSTEMS&descColor=a3a3a3&descSize=11&descAlignY=62&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
+  <p><strong>Dados que orientam decisões. Software que transforma processos.</strong></p>
+  <p>Desenvolvimento de aplicações, engenharia de dados e inteligência artificial aplicada.</p>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=2600&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Development+%2F%2F+TypeScript+%26+Python;Data+Engineering+%2F%2F+ETL+Pipelines+%26+Supabase;AI+Agents+%2F%2F+MCP+Servers+%26+LLM+Architecture;Transforming+public+transport+infrastructure+with+data)](https://git.io/typing-svg)
-
-<br/>
-
-[![GitHub Views](https://komarev.com/ghpvc/?username=victorhugo79-cell&style=for-the-badge&color=000000&labelColor=222222&label=VIEWS)](https://github.com/victorhugo79-cell)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victorhugo79)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorhugo79@outlook.com)
-
+  <a href="https://linkedin.com/in/victorhugo79">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:victorhugo79@outlook.com">E-mail</a> &nbsp;·&nbsp;
+  <a href="https://github.com/victorhugo79-cell?tab=repositories">Projetos</a>
 </div>
 
 ---
 
-### ⚡ Sobre Mim
+### Sobre
 
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  focus: string[];
-  currentTech: string[];
-  architecture: string[];
-}
+Sou Viktor Renn, desenvolvedor com foco em dados, aplicações web e soluções com inteligência artificial. Gosto de conectar engenharia e visão de produto para transformar problemas complexos em ferramentas claras, úteis e sustentáveis.
 
-const viktor: Developer = {
-  name: "Victor Hugo (Viktor Renn)",
-  role: "Systems & Data Developer",
-  focus: ["Engenharia de Dados", "Agentes de IA", "Aplicações Full Stack de Alto Impacto"],
-  currentTech: ["Python", "TypeScript", "React", "Node.js", "PostgreSQL", "Supabase"],
-  architecture: ["Model Context Protocol (MCP)", "LLM Orchestration", "ETL Pipelines"],
-};
+Atualmente, exploro automações, dashboards, pipelines de dados e agentes de IA, com interesse especial em aplicações para infraestrutura e mobilidade.
+
+### Áreas de atuação
+
+| Área | O que desenvolvo |
+| :--- | :--- |
+| **Software** | Interfaces e aplicações web, integrações e APIs. |
+| **Dados** | Consultas, automações, dashboards e fluxos de transformação de dados. |
+| **IA aplicada** | Agentes, integrações com LLMs e fluxos de análise de documentos. |
+
+### Tecnologias
+
+`Python` · `TypeScript` · `React` · `Node.js` · `PostgreSQL` · `Supabase` · `SQL` · `Power BI`
+
+### Vamos conversar?
+
+Estou aberto a conexões sobre desenvolvimento de software, dados e IA aplicada. Se você tem uma ideia ou projeto nessas áreas, fale comigo pelo [LinkedIn](https://linkedin.com/in/victorhugo79) ou por [e-mail](mailto:victorhugo79@outlook.com).
